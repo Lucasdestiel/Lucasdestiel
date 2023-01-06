@@ -7,4 +7,3 @@
 - 💬 Ask me about a little bit of html, css, responsivity development, bootstrap, bulma, JS, web design etc...
 - 📫 How to reach me: On twitter @destiel_lucas 
 - ⚡ Fun fact: I really like 90's cars.
--->
