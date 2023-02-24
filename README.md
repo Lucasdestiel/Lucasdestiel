@@ -3,6 +3,6 @@ Welcome to my frontend development portfolio! This repository showcases my skill
 *SKILLS*:
 Proficient in HTML, CSS, and JavaScript 🤘✌
 Experience with responsive design using CSS Grid and Flexbox 🔥
-Familiar with JavaScript frameworks such as React and Vue.js
+Familiar with JavaScript frameworks such as React
 Knowledge of modern CSS techniques, such as animations and transitions
 Understanding of accessibility and SEO best practices. 🙌
