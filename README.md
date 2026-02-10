@@ -1,6 +1,6 @@
-Welcome to mydevelopment portfolio! This repository showcases my skills and experience in creating dynamic, interactive, and visually appealing user interfaces 🌎💻
+Welcome to my development portfolio! This repository showcases my skills and experience in creating dynamic, interactive, and visually appealing user interfaces 🌎💻
 
-#ES6 #JavaScript #Html #Css #Bootstrap #Bulma #Sass/Scss #Git #OneBitCode
+#JavaScript #Html #Css #Bootstrap #Git #LandingPagesDevelopment #OneBitCode
 
 *SKILLS*:
 learning HTML, CSS, and JavaScript 🤘✌
