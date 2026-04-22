@@ -43,7 +43,7 @@ Sou um desenvolvedor front-end apaixonado por criar **interfaces web dinâmicas,
 
 Estou em constante evolução! Meus projetos refletem meu crescimento através de:
 
-- 📖 Estudos estruturados com **OneBitCode**
+- 📖 Estudos estruturados com a **OneBitCode**
 - 🔨 Prática hands-on com desafios reais
 - 🎓 Exploração de novas ferramentas e padrões
 - 🤝 Contribuição para a comunidade dev
