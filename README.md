@@ -1,4 +1,4 @@
-# 💻 Portfólio de Desenvolvimento Front-End
+# 💻 Portfólio
 
 Bem-vindo(a)! Este é meu espaço para compartilhar minha jornada no desenvolvimento web, com projetos, experimentos e desafios práticos enquanto domino as tecnologias modernas.
 
@@ -58,8 +58,5 @@ Estou em constante evolução! Meus projetos refletem meu crescimento através d
 - 🎯 Contribuir com código de qualidade para a comunidade
 - 🎯 Alcançar meu primeiro emprego como desenvolvedor
 
----
-
-## 📂 Estrutura do Repositório
 
 
