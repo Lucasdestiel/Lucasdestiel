@@ -1,40 +1,72 @@
-<h1 align="center">Hello World 👋, eu sou o Lucas</h1>
-<h3 align="center">Desenvolvedor Fullstack JavaScript em formação</h3>
+# 👋 Olá, eu sou o Lucas!
 
-<p align="center">
-  💻 Focado em desenvolvimento web <br>
-  🚀 Em evolução constante <br>
-  🎯 Objetivo: me tornar um dev fullstack sólido
-</p>
+🎯 Tenho 23 anos e atualmente estou focado em aprender cada vez mais sobre desenvolvimento web e conquistar minha oportunidade na área de T.I.
+
+Sou apaixonado por tecnologia e estou construindo minha jornada através de estudos, prática e desenvolvimento de projetos.
 
 ---
 
-## 🧠 Sobre mim
+# 🚀 Tecnologias e Conhecimentos
 
-- 🎂 23 anos  
-- 📍 Brasil  
-- 💼 Atuo com desenvolvimento front-end (Landing Pages e Sites)  
-- 📚 Estudando para me tornar desenvolvedor **Fullstack JavaScript**
-
----
-
-## ⚙️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,react" />
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ---
 
-## 📊 Status de Aprendizado
+# 📚 Atualmente estudando
 
-```txt
-✔ Git & GitHub
-✔ HTML5
-✔ CSS3
-✔ Bootstrap
-✔ JavaScript (base sólida)
-🚧 React (em evolução)
-🚀 Próximo: Node.js + Backend
+* ⚛️ React
+* 🧠 JavaScript
+* 🎨 Desenvolvimento Front-end
+* 🔥 Boas práticas e projetos reais
+
+---
+
+# 💻 Projetos
+
+Estou desenvolvendo projetos para colocar em prática meus conhecimentos e evoluir cada vez mais como desenvolvedor.
+
+Alguns temas dos meus projetos:
+
+* 🌐 Landing Pages
+* 🏥 Sites institucionais
+* 📱 Layouts responsivos
+* ⚡ Interfaces modernas com JavaScript
+
+---
+
+# 🎯 Objetivos
+
+* Entrar na área de tecnologia
+* Evoluir como desenvolvedor Front-end
+* Aprender novas tecnologias
+* Trabalhar com projetos reais
+* Construir uma carreira sólida em T.I.
+
+---
+
+# 📈 Minha evolução
+
+Cada projeto representa um passo importante na minha jornada.
+Estou sempre buscando aprender algo novo e melhorar minhas habilidades diariamente.
+
+---
+
+# 📫 Contato
+
+```bash
+💼 linkedin.com/in/lucas-almeidadacruz
+🐙 github.com/LucasDestiel
+```
+
+---
+
+# ⭐ Obrigado por visitar meu perfil!
+
+Sinta-se à vontade para acompanhar meus projetos e evolução 🚀
