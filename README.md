@@ -1,50 +1,102 @@
-<div align="center">
-
 # 👨‍💻 Lucas
 
-### Desenvolvedor Web | 23 anos
+## 🚀 Desenvolvedor Web | 23 anos
 
-*Apaixonado por criar experiências digitais incríveis através do código*
-
----
-
-</div>
+Apaixonado por transformar ideias em experiências digitais através do código.
 
 ---
 
-## 🚀 Sobre Mim
+## 💡 Sobre Mim
 
-Olá! Sou o Lucas, tenho 23 anos e estou em uma jornada empolgante no mundo do desenvolvimento web. Minha paixão é transformar ideias em código e criar soluções que fazem a diferença.
+Olá! Me chamo Lucas e estou construindo minha trajetória no mundo do desenvolvimento web.
 
-Atualmente, estou focado em dominar as tecnologias fundamentais da web e expandindo meus conhecimentos em frameworks modernos. Acredito no aprendizado contínuo e estou sempre buscando novos desafios para evoluir como desenvolvedor.
+Gosto de criar interfaces modernas, aprender novas tecnologias e desenvolver projetos que me desafiem constantemente. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end e evoluindo rumo ao full-stack.
 
-💡 **Objetivo:** Construir uma carreira sólida como desenvolvedor full-stack, criando aplicações web modernas e eficientes.
+Tenho como foco escrever códigos limpos, funcionais e criar aplicações que entreguem boas experiências para os usuários.
 
----
-
-## 💻 Habilidades
-
-### ✅ Estou familiarizado com
-
-- **HTML5** - Estruturação semântica e acessível de páginas web
-- **CSS3** - Estilização avançada, layouts responsivos e animações
-- **JavaScript (Base)** - Lógica de programação, manipulação do DOM e fundamentos
-- **Git** - Controle de versão e gerenciamento de código
-- **GitHub** - Colaboração em projetos e versionamento de código
-- **Experiência com projetos** - Desenvolvimento de projetos práticos aplicando as tecnologias
-
-### 📚 Estudando
-
-- **React** - Biblioteca JavaScript para construção de interfaces
-
+> 💭 *"O código é poesia em movimento. Cada linha é uma oportunidade de criar algo incrível."*
 
 ---
 
-### 💭 *"O código é poesia em movimento. Cada linha é uma oportunidade de criar algo incrível."*
+# 🎯 Objetivo
+
+Construir uma carreira sólida como desenvolvedor full-stack, participando de projetos inovadores e criando aplicações web modernas, performáticas e escaláveis.
 
 ---
 
-⭐ **Obrigado pela visita!** Se gostou do meu trabalho, não esqueça de deixar uma estrela nos repositórios! ⭐
+# 🛠️ Tecnologias & Ferramentas
 
+## ✅ Conhecimentos
 
-</div>
+<p align="left">
+  <img 
+    alt="HTML5" 
+    title="HTML5" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+  />
+
+  <img 
+    alt="CSS3" 
+    title="CSS3" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+  />
+
+  <img 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+  />
+
+  <img 
+    alt="Git" 
+    title="Git" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  />
+
+  <img 
+    alt="GitHub" 
+    title="GitHub" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  />
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+<p align="left">
+  <img 
+    alt="React" 
+    title="React" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
+</p>
+
+---
+
+# 📌 Experiência
+
+- Desenvolvimento de projetos práticos
+- Criação de páginas responsivas
+- Manipulação de DOM com JavaScript
+- Versionamento de código com Git/GitHub
+
+---
+
+# 📈 Em constante evolução
+
+Estou sempre buscando aprender novas tecnologias, melhorar minhas habilidades e desenvolver projetos cada vez mais completos.
+
+---
+
+# ⭐ Obrigado pela visita!
+
+Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios.
+
+Isso ajuda muito e me motiva a continuar evoluindo 🚀
