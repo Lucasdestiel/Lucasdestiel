@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas
 
-## 🚀 Desenvolvedor Web | 23 anos
+## 🚀 Desenvolvedor Fullstack em formação | 23 anos
 
 Transformando ideias em soluções digitais através da tecnologia.
 
