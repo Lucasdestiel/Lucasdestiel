@@ -2,25 +2,27 @@
 
 ## 🚀 Desenvolvedor Web | 23 anos
 
-Apaixonado por transformar ideias em experiências digitais através do código.
+Transformando ideias em soluções digitais através da tecnologia.
 
 ---
 
 ## 💡 Sobre Mim
 
-Olá! Me chamo Lucas e estou construindo minha trajetória no mundo do desenvolvimento web.
+Olá! Me chamo Lucas e estou construindo minha trajetória no desenvolvimento de software.
 
-Gosto de criar interfaces modernas, aprender novas tecnologias e desenvolver projetos que me desafiem constantemente. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end e evoluindo rumo ao desenvolvimento full-stack.
+Tenho experiência com desenvolvimento front-end utilizando HTML, CSS e JavaScript, criando interfaces responsivas, funcionais e focadas na experiência do usuário.
 
-Tenho como foco escrever códigos limpos, funcionais e criar aplicações que entreguem excelentes experiências aos usuários.
+Atualmente, estou expandindo meus conhecimentos para o desenvolvimento back-end com Node.js e bancos de dados SQL, buscando evoluir para uma atuação full-stack e desenvolver aplicações completas, escaláveis e modernas.
 
-> 💭 *"O código é poesia em movimento. Cada linha é uma oportunidade de criar algo incrível."*
+Acredito que aprender continuamente e construir projetos práticos é o caminho para crescer na área de tecnologia.
+
+> 💭 *"Todo grande projeto começa com uma linha de código e muita vontade de aprender."*
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida como desenvolvedor full-stack, participando de projetos inovadores e criando aplicações modernas, performáticas e escaláveis.
+Construir uma carreira sólida como desenvolvedor Full Stack, participando de projetos inovadores e criando aplicações modernas, performáticas e escaláveis.
 
 ---
 
@@ -39,23 +41,30 @@ Construir uma carreira sólida como desenvolvedor full-stack, participando de pr
 ### 📚 Atualmente Estudando
 
 <p align="left">
-  <img alt="React" title="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" title="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
+
+* Node.js
+* Banco de Dados SQL
+* APIs REST
+* Prisma ORM
 
 ---
 
 ## 📌 Experiência
 
-- Desenvolvimento de projetos práticos utilizando HTML, CSS e JavaScript
-- Criação de interfaces responsivas e acessíveis
-- Manipulação de DOM e lógica de programação
-- Versionamento e colaboração com Git e GitHub
+* Desenvolvimento de projetos utilizando HTML, CSS e JavaScript
+* Criação de interfaces responsivas e acessíveis
+* Manipulação de DOM e lógica de programação
+* Versionamento e colaboração com Git e GitHub
+* Publicação e deploy de aplicações web
 
 ---
 
 ## 📈 Em constante evolução
 
-Estou sempre aprendendo novas tecnologias, buscando melhorar minhas habilidades e criando projetos que me permitam evoluir como desenvolvedor.
+Atualmente focado em fortalecer minha base em JavaScript e aprofundar meus conhecimentos em desenvolvimento back-end com Node.js, bancos de dados e APIs, enquanto continuo aprimorando minhas habilidades em front-end.
 
 ---
 
@@ -63,4 +72,4 @@ Estou sempre aprendendo novas tecnologias, buscando melhorar minhas habilidades 
 
 Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios.
 
-Isso me motiva a continuar aprendendo e compartilhando cada vez mais 🚀
+Toda contribuição, feedback ou sugestão é bem-vinda. 🚀
