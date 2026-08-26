@@ -1,8 +1,6 @@
 # 👨‍💻 Lucas
 
-## 🚀 Desenvolvedor Fullstack em formação | 23 anos
-
-Transformando ideias em soluções digitais através da tecnologia.
+## 🚀 Desenvolvedor Fullstack em formação | 24 anos
 
 ---
 
