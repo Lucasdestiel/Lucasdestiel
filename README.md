@@ -1,9 +1,6 @@
 Olá! Eu sou Lucas Almeida 👋
-
 Desenvolvedor Front-end
-
 Sou desenvolvedor em formação, apaixonado por tecnologia e criação de soluções digitais.
-
 Meu foco é desenvolver interfaces modernas, responsivas e funcionais, buscando sempre escrever código organizado e proporcionar boas experiências aos usuários.
 
 Atualmente, estou aprofundando meus conhecimentos em JavaScript e evoluindo no ecossistema Front-end, com foco em React e TypeScript.
@@ -11,6 +8,7 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript e evoluindo no e
 ---
 
 🚀 Tecnologias e ferramentas
+<br>
 
 Conhecimentos atuais
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
@@ -20,8 +18,9 @@ Conhecimentos atuais
 Em aprendizado
 <img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
 
-🎯 Objetivo profissional
+<br>
 
+🎯 Objetivo profissional
 Busco uma oportunidade como Desenvolvedor Front-end Júnior, onde possa aplicar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
 
 Tenho interesse em desenvolvimento web, interfaces responsivas, aplicações interativas e boas práticas de programação.
