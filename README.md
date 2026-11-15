@@ -1,48 +1,44 @@
-👋 Olá! Eu sou o Lucas
+Olá! Eu sou Lucas Almeida 👋
 
-🚀 Desenvolvedor Full Stack em Formação
+Desenvolvedor Front-end
 
-Tenho 24 anos e estou em transição de carreira para a área de desenvolvimento de software.
+Sou desenvolvedor em formação, apaixonado por tecnologia e criação de soluções digitais.
 
-Atualmente estou me aprofundando no ecossistema JavaScript, buscando evoluir tanto no desenvolvimento Front-end quanto no Back-end e transformar o conhecimento adquirido em experiência prática.
+Meu foco é desenvolver interfaces modernas, responsivas e funcionais, buscando sempre escrever código organizado e proporcionar boas experiências aos usuários.
 
----
-
-## 💻 Tecnologias
-
-### Conhecimentos atuais
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
-
-### 📚 Estudando atualmente
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-</p>
----
-
-🎯 Atualmente
-
-Meu foco é fortalecer minha base em JavaScript, avançar em React + TypeScript e posteriormente aprofundar meus conhecimentos em Next.js e Node.js, construindo aplicações cada vez mais completas.
-
-Também tenho interesse em aprender futuramente como utilizar Inteligência Artificial aplicada ao desenvolvimento de software, tanto para aumentar a produtividade quanto para criar aplicações que utilizem IA.
+Atualmente, estou aprofundando meus conhecimentos em JavaScript e evoluindo no ecossistema Front-end, com foco em React e TypeScript.
 
 ---
 
-📈 Meu objetivo
+🚀 Tecnologias e ferramentas
 
-Estou me preparando para conquistar minha primeira oportunidade profissional como Desenvolvedor Júnior, continuando a evoluir através de estudos, projetos pessoais e experiências práticas.
+Conhecimentos atuais
 
-«Aprender, construir, testar, errar e evoluir. 🚀»
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />Em aprendizado
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />---
+
+🎯 Objetivo profissional
+
+Busco uma oportunidade como Desenvolvedor Front-end Júnior, onde possa aplicar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
+
+Tenho interesse em desenvolvimento web, interfaces responsivas, aplicações interativas e boas práticas de programação.
 
 ---
+
+🌎 Onde me encontrar
+
+<a href="https://almeidadeveloper.com.br">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/lucas-almeidadacruz/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Lucasdestiel">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/almeida.frontend/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>---
+
+"Transformando conhecimento em projetos, um commit de cada vez."
