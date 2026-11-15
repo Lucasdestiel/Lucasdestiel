@@ -13,9 +13,9 @@ Atualmente, estou aprofundando meus conhecimentos em JavaScript e evoluindo no e
 🚀 Tecnologias e ferramentas
 
 Conhecimentos atuais
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />Em aprendizado
-
+Em aprendizado
 <img src="https://skillicons.dev/icons?i=react,ts,nextjs" />---
 
 🎯 Objetivo profissional
