@@ -1,75 +1,103 @@
 Lucas Almeida
 
-Front-end Developer | JavaScript | React | TypeScript
+Front-end Developer | JavaScript • React • TypeScript
 
-💻 Desenvolvedor Front-end em evolução, interessado em criar interfaces modernas, responsivas e soluções digitais que resolvam problemas reais.
+<p align="left">
+  <a href="https://almeidadeveloper.com.br">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-E53935?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-almeidadacruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lucasdestiel">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>---
 
-Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, construindo projetos práticos e explorando tecnologias do ecossistema JavaScript.
+About me
 
-Tenho interesse especial em desenvolvimento de interfaces, aplicações web e criação de soluções digitais para pequenos e médios negócios.
+I'm Lucas Almeida, a Front-end Developer focused on building modern, responsive, and functional web applications.
+
+My journey in software development is driven by continuous learning, practical projects, and the desire to transform ideas into useful digital solutions.
+
+I enjoy working on projects that combine clean interfaces, usability, and well-structured code. My main focus is the JavaScript ecosystem, while expanding my knowledge of modern front-end technologies.
+
+My current professional focus:
+
+- Developing responsive and accessible web interfaces.
+- Building interactive applications with JavaScript.
+- Improving code organization and maintainability.
+- Learning React and TypeScript.
+- Creating digital solutions for businesses and real-world needs.
 
 ---
 
-🧑‍💻 Sobre mim
+Tech Stack
 
-- 🔥 Desenvolvedor focado em Front-end.
-- 🌐 Estudando JavaScript, React e TypeScript.
-- 🎨 Interesse em UI, UX e desenvolvimento responsivo.
-- 🚀 Desenvolvendo projetos práticos para meu portfólio.
-- 💼 Aberto a oportunidades profissionais e projetos freelance.
-- 🎸 Heavy metal, tecnologia e programação fazem parte do meu universo.
-
----
-
-⚙️ Tecnologias e ferramentas
-
-Atualmente trabalhando com
+Core technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
-</p>Em evolução
+</p>Currently learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs" />
 </p>---
 
-🚀 Projetos em destaque
+Featured Work
 
-Projeto| Descrição| Tecnologias
-AutoCare| Sistema de gestão automotiva| HTML, CSS, JS, Bootstrap
-Invoice Pro| Gerador de faturas para freelancers| HTML, CSS, JS
-Nexa Dashboard| Dashboard interativo com indicadores| HTML, CSS, JS
-AutoOil| Projeto de interface para o segmento automotivo| HTML, CSS, JS
+I use personal projects to apply concepts, explore technologies, and develop practical solutions.
 
-Confira meus repositórios para acompanhar minha evolução e conhecer outros projetos.
+Some of the areas I explore:
+
+- Business websites: responsive landing pages and digital presence for businesses.
+- Dashboards: interactive interfaces and data visualization.
+- Management systems: applications focused on organization and business workflows.
+- Web applications: JavaScript-based projects with interactive features.
+
+Explore my repositories to see the projects, source code, and development process.
+
+"View all repositories →" (https://github.com/Lucasdestiel?tab=repositories)
 
 ---
 
-📊 GitHub Statistics
+Development Principles
+
+- Responsive design and mobile-first development.
+- Clean, readable, and organized code.
+- Reusable components and maintainable structures.
+- User-focused interfaces and usability.
+- Continuous learning through practical development.
+
+---
+
+GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasdestiel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdestiel&layout=compact&theme=dark&hide_border=true" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucasdestiel&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucasdestiel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdestiel&layout=compact&theme=transparent&hide_border=true" />
 </p>---
 
-🌎 Onde me encontrar
+Let's connect
 
-<p>
-  <a href="https://github.com/Lucasdestiel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+I'm open to professional opportunities, collaborations, and freelance projects involving web development.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/lucas-almeidadacruz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://almeidadeveloper.com.br">
-    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-almeidadeveloper.com.br-E53935?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lucasdestiel">
+    <img src="https://img.shields.io/badge/GitHub-Lucasdestiel-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>---
 
 <p align="center">
-  <i>"Great software is built one line at a time."</i>
+  <i>Building solutions, learning continuously, and turning ideas into code.</i>
 </p><p align="center">
-  **Lucas Almeida · Front-end Developer**
-</p> 
+  <strong>Lucas Almeida · Front-end Developer</strong>
+</p>
+
+ 
