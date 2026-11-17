@@ -71,13 +71,6 @@ Development Principles
 
 ---
 
-GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucasdestiel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdestiel&layout=compact&theme=transparent&hide_border=true" />
-</p>---
-
 Let's connect
 
 I'm open to professional opportunities, collaborations, and freelance projects involving web development.
