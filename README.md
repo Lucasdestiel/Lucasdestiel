@@ -1,48 +1,75 @@
-Olá! Eu sou Lucas Almeida 👋
+Lucas Almeida
 
-Desenvolvedor Front-end
+Front-end Developer | JavaScript | React | TypeScript
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e criação de soluções digitais.
+💻 Desenvolvedor Front-end em evolução, interessado em criar interfaces modernas, responsivas e soluções digitais que resolvam problemas reais.
 
-Meu foco é desenvolver interfaces modernas, responsivas e funcionais, buscando sempre escrever código organizado e proporcionar boas experiências aos usuários.
+Atualmente, estou aprimorando minhas habilidades em desenvolvimento web, construindo projetos práticos e explorando tecnologias do ecossistema JavaScript.
 
-Atualmente, estou aprofundando meus conhecimentos em JavaScript e evoluindo no ecossistema Front-end, com foco em React e TypeScript.
+Tenho interesse especial em desenvolvimento de interfaces, aplicações web e criação de soluções digitais para pequenos e médios negócios.
+
+---
+
+🧑‍💻 Sobre mim
+
+- 🔥 Desenvolvedor focado em Front-end.
+- 🌐 Estudando JavaScript, React e TypeScript.
+- 🎨 Interesse em UI, UX e desenvolvimento responsivo.
+- 🚀 Desenvolvendo projetos práticos para meu portfólio.
+- 💼 Aberto a oportunidades profissionais e projetos freelance.
+- 🎸 Heavy metal, tecnologia e programação fazem parte do meu universo.
 
 ---
 
-🚀 Tecnologias e ferramentas
-<br>
+⚙️ Tecnologias e ferramentas
 
-Conhecimentos atuais
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode"/>
+Atualmente trabalhando com
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+</p>Em evolução
 
-Em aprendizado
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs" />
+</p>---
 
-<br>
+🚀 Projetos em destaque
 
-🎯 Objetivo profissional
-Busco uma oportunidade como Desenvolvedor Front-end Júnior, onde possa aplicar meus conhecimentos, colaborar com equipes de desenvolvimento e continuar evoluindo profissionalmente.
+Projeto| Descrição| Tecnologias
+AutoCare| Sistema de gestão automotiva| HTML, CSS, JS, Bootstrap
+Invoice Pro| Gerador de faturas para freelancers| HTML, CSS, JS
+Nexa Dashboard| Dashboard interativo com indicadores| HTML, CSS, JS
+AutoOil| Projeto de interface para o segmento automotivo| HTML, CSS, JS
 
-Tenho interesse em desenvolvimento web, interfaces responsivas, aplicações interativas e boas práticas de programação.
+Confira meus repositórios para acompanhar minha evolução e conhecer outros projetos.
 
 ---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasdestiel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdestiel&layout=compact&theme=dark&hide_border=true" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucasdestiel&theme=dark&hide_border=true" />
+</p>---
 
 🌎 Onde me encontrar
 
-<a href="https://almeidadeveloper.com.br">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/lucas-almeidadacruz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Lucasdestiel">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/almeida.frontend/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>---
+<p>
+  <a href="https://github.com/Lucasdestiel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-almeidadacruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://almeidadeveloper.com.br">
+    <img src="https://img.shields.io/badge/Portfolio-EF4444?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>---
 
-"Transformando conhecimento em projetos, um commit de cada vez."
+<p align="center">
+  <i>"Great software is built one line at a time."</i>
+</p><p align="center">
+  **Lucas Almeida · Front-end Developer**
+</p> 
